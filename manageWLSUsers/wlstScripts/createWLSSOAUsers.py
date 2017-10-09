@@ -12,7 +12,7 @@
 # DO NOT EDIT BELOW THIS LINE UNLESS ADVISED BY SUPPORT
 ##---------------------------------------------------------
 
-# -- Usage of arguments per getopt import (http://davidmichaelkarr.blogspot.com/2008/10/make-wlst-scripts-more-flexible-with.html) --
+
 def usage():
     print "Usage:"
     print "Must be used from the install command only"
